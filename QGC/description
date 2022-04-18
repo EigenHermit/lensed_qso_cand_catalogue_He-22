@@ -1,3 +1,9 @@
+1. QGC             
+
+This catalogue provides the detailed information of of every sources of quasar candidate groups.
+
+Download link: https://drive.google.com/file/d/1OXuMT7CXol-CoeGD_zXKHlW7YKDn9aKt/view?usp=sharing             
+
 Column Name, Description
 RA, RA from DESI-LIS catalgoue             
 Dec, Dec from DESI-LIS catalgoue                   
@@ -8,3 +14,13 @@ z, z-band magnitude from DESI-LIS catalgoue
 W1, W1-band magnitude from DESI-LIS catalgoue             
 W2, W2-band magnitude from DESI-LIS catalgoue             
 score, The probablity of being a QSO, provided by RF in He & Li (2022a, RAA)
+
+2. extended information of QGC
+
+This catalogue provides s_rf cand s_colour of every quasar candidate groups.
+
+Download link: https://drive.google.com/file/d/14WMoTV1nqQd_DZIStEhVonlnJqjzJ86Z/view?usp=sharing             
+
+Column Name, Description
+S_RF, One of the scores that measuring the probablity of a quasar candidate group being a quasar group
+S_colour, One of the scores that measuring the colour similarity of candidates within a quasar candidate group      
