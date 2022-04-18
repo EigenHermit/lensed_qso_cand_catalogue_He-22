@@ -1,1 +1,10 @@
-
+Column Name, Description
+RA, RA from DESI-LIS catalgoue             
+Dec, Dec from DESI-LIS catalgoue                   
+Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.)               
+g, g-band magnitude from DESI-LIS catalgoue             
+r, r-band magnitude from DESI-LIS catalgoue             
+z, z-band magnitude from DESI-LIS catalgoue             
+W1, W1-band magnitude from DESI-LIS catalgoue             
+W2, W2-band magnitude from DESI-LIS catalgoue             
+score, The probablity of being a QSO, provided by RF in He & Li (2022a, RAA)
