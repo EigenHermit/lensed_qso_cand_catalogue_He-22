@@ -13,6 +13,26 @@ Sep_min, Minimum image separation in arcseconds
 Sep_mean, Mean image separation in arcseconds             
 Grade, Grades of lensed quasar canidates (A, B, or C) given by the first author
 Grade_by_LR, Grades of lensed quasar canidates (A, B, or C) given by the fourth author                                
-N_images, Number of images of lensed quasar from GLQ database            
+NUM_of_IMGs, Number of images
 Note, Comments on this lensed quasar candidate                     
 
+3. New_candidates__D22.csv
+
+This catalogue contains 204 overlaped lensed quasars candidates between this work and D22.
+
+Column Name, Description
+Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.)   
+RA_thiswork, Right Ascension (J2000)              
+Dec_thiswork, Declination (J2000)        
+S_RF, One of the scores that measuring the probablity of a quasar candidate group being a quasar group
+S_colour, One of the scores that measuring the colour similarity of candidates within a quasar candidate group     
+Sep_max, Maximum image separation in arcsecond             
+Sep_min, Minimum image separation in arcseconds
+Sep_mean, Mean image separation in arcseconds             
+Grade_thiswork, Grades of lensed quasar canidates (A, B, or C) given by the first author
+Grade_thiswork_by_LR, Grades of lensed quasar canidates (A, B, or C) given by the fourth author                                
+NUM_of_IMGs, Number of images
+Name_D22, Source name given in D22 table
+RA_D22, RA given in D22 table
+Dec_D22, Dec given in D22 table
+Grade_D22, Grades given in D22 table
