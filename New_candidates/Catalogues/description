@@ -4,8 +4,8 @@ This catalogue contains 852 new lensed quasars candidates.
 
 Column Name, Description
 Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.)   
-RA, Right Ascension (J2000)              
-DEC, Declination (J2000)        
+RA, Right Ascension (J2000) of the centre of lensed quasars candidates.
+DEC, Declination (J2000) of the centre of lensed quasars candidates.
 S_RF, One of the scores that measuring the probablity of a quasar candidate group being a quasar group
 S_colour, One of the scores that measuring the colour similarity of candidates within a quasar candidate group     
 Sep_max, Maximum image separation in arcsecond             
@@ -14,11 +14,25 @@ Sep_mean, Mean image separation in arcseconds
 Grade, Grades of lensed quasar canidates (A, B, or C) given by the first author
 Grade_by_LR, Grades of lensed quasar canidates (A, B, or C) given by the fourth author                                
 NUM_of_IMGs, Number of images
-Note, Comments on this lensed quasar candidate                     
+Note, Comments on this lensed quasar candidate                 
+
+2. New_candidates_in_detail.csv
+
+This catalogue contains the every images (1715 in total) of 852 new lensed quasars candidates
+
+Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.) that this image belongs to.
+RA, Right Ascension (J2000) of the centre of this image.
+Dec, Declination (J2000) of the centre of this image.
+g, g-band magnitude of this image.
+r, r-band magnitude of this image.
+z, z-band magnitude of this image.
+W1, W1-band magnitude of this image.
+W2, W2-band magnitude of this image.
+redshift, The matched redshift from SDSS eBOSS DR16 (if have)
 
 3. New_candidates__D22.csv
 
-This catalogue contains 204 overlaped lensed quasars candidates between this work and D22.
+This catalogue contains 204 overlapped lensed quasars candidates between this work and D22.
 
 Column Name, Description
 Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.)   
