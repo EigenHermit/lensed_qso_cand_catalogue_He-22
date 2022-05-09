@@ -4,7 +4,7 @@ Column Name, Description
 RA, RA from GLQ database              
 DEC, Dec from GLQ database              
 Name, Name of lensed quasar from GLQ database              
-Clusterid, Internel ID of our work (also provided in other catalogues that exist in this repo.)             
+internal_ID, Internel ID of our work (also provided in other catalogues that exist in this repo.)             
 z_qso, The redshift of background quasar from GLQ database             
 z_lens, The redshift of lens galaxy from GLQ database             
 N_images, Number of images of lensed quasar from GLQ database            
