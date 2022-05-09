@@ -3,7 +3,7 @@
 This catalogue contains 852 new lensed quasars candidates.
 
 Column Name, Description
-Clusterid, Internal ID of our work (also provided in other catalogues that exist in this repo.)   
+internal_ID, Internal ID of our work (also provided in other catalogues that exist in this repo.)   
 RA, Right Ascension (J2000) of the centre of lensed quasars candidates.
 DEC, Declination (J2000) of the centre of lensed quasars candidates.
 S_RF, One of the scores that measuring the probability of a quasar candidate group being a quasar group
@@ -26,7 +26,7 @@ Note, Comments on this lensed quasar candidate
 
 This catalogue contains the every images (1715 in total) of 852 new lensed quasars candidates (compared to GLQ)
 
-Clusterid, Internal ID of our work (also provided in other catalogues that exist in this repo.) that this image belongs to.
+internal_ID, Internal ID of our work (also provided in other catalogues that exist in this repo.) that this image belongs to.
 RA, Right Ascension (J2000) of the centre of this image.
 Dec, Declination (J2000) of the centre of this image.
 g, g-band magnitude of this image.
