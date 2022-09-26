@@ -1,6 +1,6 @@
-1. New_candidates.csv
+1. H22.csv
 
-This catalogue contains 852 new lensed quasars candidates.
+This catalogue contains all 999 lensed quasars candidates.
 
 Column Name, Description
 internal_ID, Internal ID of our work (also provided in other catalogues that exist in this repo.)   
@@ -22,9 +22,9 @@ phi, position angle of SIE profile (+x-axis is zero, counterclockwise is positiv
 rein, Einstein radius  given by lens modelling               
 Note, Comments on this lensed quasar candidate                 
 
-2. New_candidates_compare_to_GLQ_in_detail.csv
+2. H22_new_details.csv
 
-This catalogue contains the every images (1715 in total) of 852 new lensed quasars candidates (compared to GLQ)
+This catalogue contains the every images (1912 in total) of 948 new lensed quasars candidates (compared to GLQ)
 
 internal_ID, Internal ID of our work (also provided in other catalogues that exist in this repo.) that this image belongs to.
 RA, Right Ascension (J2000) of the centre of this image.
