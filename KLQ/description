@@ -1,13 +1,15 @@
 This catalogue contains 57 known lensed quasars from GLQ database that exist in QGC.
 
 Column Name, Description
+internal_ID, Internel ID of our work (also provided in other catalogues that exist in this repo.) 
 RA, RA from GLQ database              
 DEC, Dec from GLQ database              
-Name, Name of lensed quasar from GLQ database              
-internal_ID, Internel ID of our work (also provided in other catalogues that exist in this repo.)             
+Name, Name of lensed quasar from GLQ database                         
 z_qso, The redshift of background quasar from GLQ database             
 z_lens, The redshift of lens galaxy from GLQ database             
-N_images, Number of images of lensed quasar from GLQ database            
-exist_in_VS, Wether this lensed quasar exist in VS (51s out of 57s do)                
+N_images, Number of images of lensed quasar from GLQ database                   
 S_RF, One of the scores that measuring the probablity of a quasar candidate group being a quasar group
-S_colour, One of the scores that measuring the colour similarity of candidates within a quasar candidate group             
+S_colour, One of the scores that measuring the colour similarity of candidates within a quasar candidate group     
+KLQ_in_PAIR, the systems that have two matches in QCC (see the details at Sec. 3.1)  
+KLQ_in_MUL, the systems that have more than two matches in QCC (see the details at Sec. 3.1)  
+rediscovered, Wether this lensed quasar is rediscovered by us (53s out of 57s do)             
