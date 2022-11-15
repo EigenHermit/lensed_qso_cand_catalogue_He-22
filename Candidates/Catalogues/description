@@ -11,16 +11,19 @@ S_colour, One of the scores that measuring the colour similarity of candidates w
 Sep_max, Maximum image separation in arcsecond             
 Sep_min, Minimum image separation in arcseconds
 Sep_mean, Mean image separation in arcseconds             
-Grade, Grades of lensed quasar candidates (A, B, or C) given by the first author
-Grade_by_LR, Grades of lensed quasar candidates (A, B, or C) given by the fourth author                                
-NUM_of_IMGs, Number of images
-exsit_in_KLQ, Whether this candidate exists in KLQ                
-exsit_in_D22, Whether this candidate exists in D22
-Grade_by_D22, Grades of lensed quasar candidates (A, B, or C) given in D22              
+Grade, Grades of lensed quasar candidates (A, B, or C)          
+Grade_by_LR, Grades of lensed quasar candidates (A, B, or C) that are given independently by the fourth author                                                
+NUM_of_IMGs, Number of images               
+in_KLQ, Whether this candidate exists in KLQ                
+in_D22, Whether this candidate exists in D22             
+in_L22, Whether this candidate exists in L22     
+Grade_by_D22, Grades of lensed quasar candidates (A, B, or C) given in D22     
+Classification_by_L22, The classification in L22 (lens, NIQ, projected QSOs, or QSO pairs)                  
 q, axis ratio of SIE profile given by lens modeling               
 phi, position angle of SIE profile (+x-axis is zero, counterclockwise is positive) given by lens modeling               
-rein, Einstein radius  given by lens modelling               
-Note, Comments on this lensed quasar candidate                 
+minimised ¦Ö2, The ¦Ö2 that calculated by the best-fitted lens model and observation data           
+rein, Einstein radius  given by lens modelling                
+Note, Comments on this lensed quasar candidate                  
 
 2. H22_new_details.csv
 
@@ -34,5 +37,6 @@ r, r-band magnitude of this image.
 z, z-band magnitude of this image.
 W1, W1-band magnitude of this image.
 W2, W2-band magnitude of this image.
-redshift, The matched redshift from SDSS eBOSS DR16 (if have)
+redshift, The matched redshift from SDSS eBOSS DR16 (if available)                  
+Grade, The grades (A,B,C) of the candidate system that this image belongs to.                     
 
