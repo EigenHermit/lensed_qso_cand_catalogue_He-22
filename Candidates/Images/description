@@ -1,4 +1,3 @@
-This dir contains the images of all 903 candidates, dividing in to three parts:
-1. The overlaps with KLQ (51s)
-2. The overlaps with D22 (204s)
-3. Newly found by us compared to KLQ and D22 (648s)
+This dir contains the images of all 992 candidates, dividing in to two parts:
+1. All images                    
+2. The images is categorized by the overlaps with D22, L22, KLQ. Expect all overlaps, the others in H22 are putted in `New'.                 
