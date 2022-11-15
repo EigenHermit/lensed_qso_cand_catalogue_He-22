@@ -21,7 +21,7 @@ Grade_by_D22, Grades of lensed quasar candidates (A, B, or C) given in D22
 Classification_by_L22, The classification in L22 (lens, NIQ, projected QSOs, or QSO pairs)                  
 q, axis ratio of SIE profile given by lens modeling               
 phi, position angle of SIE profile (+x-axis is zero, counterclockwise is positive) given by lens modeling               
-minimised ¦Ö2, The ¦Ö2 that calculated by the best-fitted lens model and observation data           
+minimised chi2, The chi2 that calculated by the best-fitted lens model and observation data           
 rein, Einstein radius  given by lens modelling                
 Note, Comments on this lensed quasar candidate                  
 
