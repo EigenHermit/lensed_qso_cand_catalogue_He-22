@@ -1,4 +1,4 @@
-This catalogue contains 57 known lensed quasars from GLQ database that exist in QGC.
+This catalogue contains 57 known lensed quasars, which are used as the reference sample in our work, from GLQ database that exist in QGC.
 
 Column Name, Description
 internal_ID, Internel ID of our work (also provided in other catalogues that exist in this repo.) 
