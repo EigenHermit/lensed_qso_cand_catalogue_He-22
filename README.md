@@ -13,4 +13,4 @@ Title:	Discovering strongly lensed quasar candidates with catalogue-based method
 Authors:	Zizhao He, Nan Li, Xiaoyue Cao, Rui Li, Hu Zou               
 Journal:	Astronomy & Astrophysics              
 Section:	14. Catalogs and data                  
-Arxiv:  XXX                  
+Arxiv:  2301.11080                          
